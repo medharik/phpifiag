@@ -1,0 +1,2 @@
+--create database db
+--create table produit( id int primary key auto_increment , nom varchar(100), prix float )
